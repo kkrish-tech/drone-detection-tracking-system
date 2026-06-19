@@ -105,6 +105,7 @@ pip install -r requirements.txt
 ### 3. Run the system
 
 python gimbal_scan_test.py
+
 python CAM_DEMO.py
 
 - Press q to exit the live view window
